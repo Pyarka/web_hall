@@ -1,14 +1,13 @@
 import React from "react";
 import { LeftPanelContainer } from "./LeftPanelStyles";
-import FileLoader from "./components/FileLoader/FileLoader";
+import ChatChart from "./components/ChatChart/ChatChart";
 
 const LeftPanel = () => {
 
 
     return (
         <LeftPanelContainer>
-            Left Panel Container
-            {FileLoader()}
+            <ChatChart />
         </LeftPanelContainer>
     )
 }

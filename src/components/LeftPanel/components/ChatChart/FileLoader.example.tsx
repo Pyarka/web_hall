@@ -1,6 +1,6 @@
 import React, { useCallback, useEffect, useState } from "react";
 import { useDropzone } from "react-dropzone";
-import { FileContainer, FileImage, FileLoaderContainer } from "./FileLoaderStyles";
+import { FileContainer, FileImage, FileLoaderContainer } from "./FileLoaderStyles.example";
 
 const FileLoader = () => {
     const [files, setFiles] = useState<any[]>([]);
