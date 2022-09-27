@@ -6,7 +6,7 @@ export interface GolbalIF {
 }
 
 const initialState: GolbalIF = {
-    user: '',
+    user: 'EMPLOYEE)))',
     activeChat: '',
 }
 

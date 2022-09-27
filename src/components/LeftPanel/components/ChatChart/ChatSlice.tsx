@@ -20,7 +20,7 @@ const initialState: ChatChartIF[] = [
             {
                 time: 1663917212,
                 text: 'HEY! BOSS!',
-                author: 'EMPLOYEE))) (Me)'
+                author: 'EMPLOYEE)))'
             },
             {
                 time: 1663917214,
@@ -41,7 +41,7 @@ const initialState: ChatChartIF[] = [
             {
                 time: 1663517214,
                 text: 'EW!!!',
-                author: 'EMPLOYEE))) (Me)'
+                author: 'EMPLOYEE)))'
             }
         ]
     }
